@@ -897,20 +897,20 @@ section {
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border-bottom: 3px solid #fce806;
 }
 
 .services .service-box.green .icon {
-  color: #08da4e;
+  color: #fce806;
   background: #cffddf;
 }
 
 .services .service-box.green .read-more {
-  color: #08da4e;
+  color: #fce806;
 }
 
 .services .service-box.green:hover {
-  background: #08da4e;
+  background: #fce806;
 }
 
 
@@ -934,20 +934,20 @@ section {
 
 
 .services .service-box.red {
-  border-bottom: 3px solid #e9222c;
+  border-bottom: 3px solid #CA1F7B;
 }
 
 .services .service-box.red .icon {
-  color: #e9222c;
+  color: #CA1F7B;
   background: #fef7f8;
 }
 
 .services .service-box.red .read-more {
-  color: #e9222c;
+  color: #CA1F7B;
 }
 
 .services .service-box.red:hover {
-  background: #e9222c;
+  background: #CA1F7B;
 }
 
 .services .service-box.purple {
